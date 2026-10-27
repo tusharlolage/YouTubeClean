@@ -13,7 +13,7 @@ import textwrap
 
 # Page configuration
 st.set_page_config(
-    page_title="EduTube - Advanced Search",
+    page_title="YoutubeClean - Advanced Search",
     page_icon="🔍",
     layout="wide",
 )
