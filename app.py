@@ -119,7 +119,7 @@ def parse_age(age_str):
     if 'year' in text: return val * 365
     return 999999
 
-st.title("🔍 EduTube: Advanced Keyword Search")
+st.title("🔍 YouTubeClean: Advanced Keyword Search")
 
 # --- CREATE TABS ---
 tab_search, tab_library, tab_read_aloud = st.tabs(["🔍 Search Videos", "📚 My Saved Library", "🗣️ Translate & Read"])
